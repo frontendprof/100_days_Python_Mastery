@@ -11,3 +11,5 @@ Day2---------> Computing the factorial for a given number
 Day3---------> Creating a dictionary with function that gives key and value pair whereby value is square of that key, given input is last key of the dictionary.
 Day4---------> Including several given numbers in a list and then in a tuple, then displaying.
 Day5---------> Creating a class that has 2 methods which are takes string and prints it out in uppercase.
+Day6---------> Creating a cool calculator logic by using the formula Q=square root of [(28*c*d)/h]
+Day7--------->
